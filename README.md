@@ -3,10 +3,12 @@
 - 😄 Pronouns: she/her
 
 - 🔭 Things I'm working on from home: 
-  - Brainstorming projects for the [CHAOSS](https://chaoss.community/) Data Science Working Group as Co-Chair
+  - Co-charing the CHAOSS Data Science Working Group [CHAOSS](https://chaoss.community/) 
+    - Extending the [Event Location Inclusivity metric](https://chaoss.community/kb/metric-event-location-inclusivity/)
   - Contributing to Insights for [CHAOSS](https://chaoss.community/) Open Source Program Office Working Group
+  - Became an official member of the [InnerSource Commons Foundation](https://innersourcecommons.org/about/members/#:~:text=The%20InnerSource%20Commons%20is%20a,nominated%20by%20a%20current%20Member.)
   - Created an [InnerSource version](https://github.com/InnerSourceCommons/repo-template) of [Github's Form Template](https://github.com/github/form-templates)
-  - Growing python skills for Data Science
+  - Developing python skills for Data Science
   - Reading [Engineering Management for the Rest of Us](https://www.engmanagement.dev/)
 
 - ⚡ Things I'm working on outside:
